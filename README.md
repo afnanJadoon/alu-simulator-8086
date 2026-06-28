@@ -33,7 +33,7 @@
 | `A` | SHR       | AX >> 1        | One      |
 | `0` | EXIT      | Quit simulator | —        |
 
----
+--- 
 
 ## CPU Flags Displayed
 
